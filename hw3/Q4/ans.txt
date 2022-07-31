@@ -1,0 +1,4 @@
+In principle how could you use Zokrates to verify that a certain address on Ethereum has more than 1 ETH?
+
+1. Write a circuit which proves the ownership of a public address with a public input of the public address and a private input of the private key
+2. In the verifier contract, verify proof of ownership and check balance of the public address

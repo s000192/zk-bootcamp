@@ -1,0 +1,24 @@
+1. Yes
+
+2.
+    1. It is true that all odd squares ≡ 1 (mod8)
+        19 * 19 - 1 = 360 which is divisble by 8
+    2. Even square (mod 8) is not true
+        6 * 6 = 36 which is not divisble by 8
+
+3.
+    Public Bitcoin address is 16VkvWsHHtZrZ8E1JL2nkXi2UJbXxC15cd
+    Private Bitcoin address is: 6217438123917410928939857879253287805124222644358616757742997008013232368272
+        
+    Ethereum Address: 0xAAAA6a588d34e2db2E199796e45af93f900dD45F
+    Private key: 392c3f8ea39307dc9c2fa09b07725bc7bcd1e85a167448ca327d3101d6777aae
+
+4.
+    1. O(n) means the time taken to solve the problem is relative to n
+    2. O(1) means complexity is constant
+    3. O(log n) means it is less complex than O(n) but more complex than O(1)
+
+5.
+    For SNARKs, proof size complexity is O(1)
+    For STARKs, proof size complexity is O(poly-log n)
+    For bulletproofs, proof size complexity O(log n)

@@ -1,0 +1,14 @@
+1.  Working with the following set of Integers S = {0,1,2,3,4,5,6}
+    a)  4 + 4 = 1 mod 7
+    b)  3 x 5 = 1 mod 7
+    c)    a^{−1} ≡ a^{p−2} (mod p)
+        = 3 ^ (7-2) = 3 ^ 5 = 243
+        = 5 mod 7
+
+
+2.  For S = {0,1,2,3,4,5,6}, we cannot consider 'S' and the operation '+' to be a group because:
+    Yes it follows all of the group rules
+
+3. -13 mod 5 = 2 mod 5
+
+
